@@ -1,0 +1,22 @@
+*{
+  float: left;
+}
+
+.first-text{
+    font-size: 25px;
+    margin-left: 240px;
+    margin-top: 70px;
+}
+
+.all-text{
+    margin-left: 240px;
+}
+
+
+
+
+img{
+  width: 70px;
+  margin: 20px;
+
+}
